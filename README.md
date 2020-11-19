@@ -6,7 +6,7 @@ This project is intended to make a live TV only using HTML, javascript and some 
 2. Open and enjoy!
 ## Supported Versions
 
-This are the current launcher editions that works with the latest gifs.
+These are the current launcher editions that works with the latest gifs.
 
 | Version | Supported          |
 | ------- | ------------------ |
