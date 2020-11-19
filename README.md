@@ -1,2 +1,6 @@
-# livetv
-A live TV in html using gifs
+# Live TV
+A live TV in html using gifs.
+This project is intended to make a live TV only using HTML, javascript and some CSS.
+## Instructions
+1. Download LTV launcher (We recommend using last version avalible)
+2. Open and enjoy!
