@@ -11,4 +11,4 @@ These are the current launcher editions that works with the latest gifs.
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.1     | :white_check_mark: |
-| 1.0     | :x:                |
+<!--| 1.0     | :x:                |-->
